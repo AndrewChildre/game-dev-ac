@@ -1,0 +1,3 @@
+add ([
+  sprite('player')
+])
